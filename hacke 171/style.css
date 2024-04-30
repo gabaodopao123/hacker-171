@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+    
+.cabecalho{
+    padding: 24px 0;
+    background-color:aqua;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalholistaitem{
+    display:inline-block;
+    margin: 0 90px;
+    padding: 24px 0;
+    font-size: 24px;
+}
+.sobre-conteudo{
+    width:35%;
+}
+
+.sobre-titulo{
+    padding: 240px 0;
+}
+.sobre{
+    background-image:url(img/Rectangle\ 2.png);
+    color: white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding: 58px 0;
+}
+
+
