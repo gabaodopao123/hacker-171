@@ -38,4 +38,12 @@
     width:100px;
 }
 
+.menbros{
+    text-align: center;
+}
+
+.membros-todos{
+    display:grid;
+    grid-template-columns: 10% 20% 20% 20% 20% 10%;
+}
 
